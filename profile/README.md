@@ -4,7 +4,7 @@
 
 **借助 AI 实现各种实用的工具与插件**
 
-[![Repos](https://img.shields.io/badge/Repositories-10-blue?style=flat-square)](https://github.com/orgs/ChaseToDream/repositories)
+[![Repos](https://img.shields.io/badge/Repositories-11-blue?style=flat-square)](https://github.com/orgs/ChaseToDream/repositories)
 [![Languages](https://img.shields.io/badge/Top_Lang-TypeScript%20%7C%20JavaScript%20%7C%20Python-informational?style=flat-square)](https://github.com/orgs/ChaseToDream/repositories)
 [![License](https://img.shields.io/badge/License-MIT%20%7C%20GPL--3.0-success?style=flat-square)](https://github.com/ChaseToDream)
 
@@ -35,7 +35,8 @@
 | [**AIGCwiki**](https://github.com/ChaseToDream/AIGCwiki) | AI 绘画作品展示平台 | Next.js + React + TypeScript |
 | [**TRAE-Forum**](https://github.com/ChaseToDream/TRAE-Forum) | TRAE 社区帖子展示，三视图 + 分类筛选 + 关键词搜索 + 每 2 小时自动更新 | JavaScript + Python + GitHub Actions |
 | [**IMGconfusion**](https://github.com/ChaseToDream/IMGconfusion) | 图片混淆与还原工具，保护图片隐私 | React + TypeScript + Tailwind CSS |
-| [**Orbis**](https://github.com/ChaseToDream/Orbis) | 绘世，Web 站点接入 AI 绘图 API 生成图片 | — |
+| [**Orbis**](https://github.com/ChaseToDream/Orbis) | 绘世，Web 站点接入 AI 绘图 API 生成图片 | TypeScript |
+| [**ResBox**](https://github.com/ChaseToDream/ResBox) | 基于 uni-app + Vue 的跨平台移动应用，含登录、发布、详情与个人页 | Vue + uni-app |
 
 ### 命令行工具
 
@@ -53,6 +54,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue" />
 </p>
 
 ## 统计
