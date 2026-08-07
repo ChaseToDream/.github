@@ -60,15 +60,6 @@
   <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue" />
 </p>
 
-## 统计
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChaseToDream&show_icons=true&theme=tokyonight&hide_border=true" alt="ChaseToDream's GitHub stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChaseToDream&layout=compact&theme=tokyonight&hide_border=true" alt="ChaseToDream's top languages" />
-</p>
-
 ---
 
 <div align="center">
