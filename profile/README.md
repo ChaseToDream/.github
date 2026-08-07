@@ -4,9 +4,10 @@
 
 **借助 AI 实现各种实用的工具与插件**
 
-[![Repos](https://img.shields.io/badge/Repositories-11-blue?style=flat-square)](https://github.com/orgs/ChaseToDream/repositories)
-[![Languages](https://img.shields.io/badge/Top_Lang-TypeScript%20%7C%20JavaScript%20%7C%20Python-informational?style=flat-square)](https://github.com/orgs/ChaseToDream/repositories)
+[![Repos](https://img.shields.io/badge/Repositories-14-blue?style=flat-square)](https://github.com/orgs/ChaseToDream/repositories)
+[![Languages](https://img.shields.io/badge/Top_Lang-TypeScript%20%7C%20JavaScript%20%7C%20Python%20%7C%20Vue-informational?style=flat-square)](https://github.com/orgs/ChaseToDream/repositories)
 [![License](https://img.shields.io/badge/License-MIT%20%7C%20GPL--3.0-success?style=flat-square)](https://github.com/ChaseToDream)
+[![Stars](https://img.shields.io/badge/Top_Repo-TRAE--Forum%20%E2%98%853-yellow?style=flat-square)](https://github.com/ChaseToDream/TRAE-Forum)
 
 </div>
 
@@ -14,7 +15,7 @@
 
 ## 关于我们
 
-我们是一群热爱技术与创新的开发者，专注于利用 AI 能力构建实用的桌面应用、Web 工具和命令行程序。从图像处理到代码可视化，从函数绘图到系统优化，从音频增强到物理模拟，我们探索 AI 与工程结合的无限可能。
+我们是一群热爱技术与创新的开发者，专注于利用 AI 能力构建实用的桌面应用、Web 工具、命令行程序与知识站点。从代码可视化到游戏化编程学习，从物理模拟到星穹铁道资料站，从音频增强到系统优化，我们探索 AI 与工程结合的无限可能。
 
 ## 项目一览
 
@@ -28,15 +29,17 @@
 
 | 项目 | 描述 | 技术栈 |
 |:-----|:-----|:-------|
+| [**TRAE-Forum**](https://github.com/ChaseToDream/TRAE-Forum) | TRAE 社区帖子展示，三视图 + 分类筛选 + 关键词搜索 + 每 2 小时自动更新 | JavaScript + Python + GitHub Actions |
+| [**SRwiki**](https://github.com/ChaseToDream/SRwiki) | 星穹 Wiki — 玩家自建《崩坏：星穹铁道》资料站，覆盖角色、光锥、前瞻资讯与活动日历 | Next.js 16 + React 19 + content-collections + Tailwind CSS |
+| [**CodeGame**](https://github.com/ChaseToDream/CodeGame) | 游戏化编程学习平台，浏览器内运行 Python/JS、XP 徽章、AI 助手 Lumi、作品工作室与社区论坛 | Next.js 14 + React 18 + Monaco + Pyodide |
+| [**ResBox**](https://github.com/ChaseToDream/ResBox) | 基于 uni-app + Vue 的跨平台移动应用，含登录、发布、详情与个人页 | Vue + uni-app |
+| [**IMGconfusion**](https://github.com/ChaseToDream/IMGconfusion) | 图片混淆与还原工具，保护图片隐私 | React + TypeScript + Tailwind CSS |
 | [**BassMusic**](https://github.com/ChaseToDream/BassMusic) | 低频音乐增强转换工具，面向听障用户的纯浏览器端音频处理 | React + TypeScript + Web Audio API |
+| [**Orbis**](https://github.com/ChaseToDream/Orbis) | 绘世，Web 站点接入 AI 绘图 API 生成图片 | TypeScript |
 | [**PhysFlux**](https://github.com/ChaseToDream/PhysFlux) | 物绘流光，Web 端实时物理规则模拟 | JavaScript + Vite |
 | [**Copybook**](https://github.com/ChaseToDream/Copybook) | 字帖生成器，水墨纸韵风格的中国书法美学 | React + TypeScript + Tailwind CSS |
 | [**Function-Visualization**](https://github.com/ChaseToDream/Function-Visualization) | 数学函数可视化工具，实时绘图 + 多函数对比 + 数据导出 | React + Zustand + mathjs |
 | [**AIGCwiki**](https://github.com/ChaseToDream/AIGCwiki) | AI 绘画作品展示平台 | Next.js + React + TypeScript |
-| [**TRAE-Forum**](https://github.com/ChaseToDream/TRAE-Forum) | TRAE 社区帖子展示，三视图 + 分类筛选 + 关键词搜索 + 每 2 小时自动更新 | JavaScript + Python + GitHub Actions |
-| [**IMGconfusion**](https://github.com/ChaseToDream/IMGconfusion) | 图片混淆与还原工具，保护图片隐私 | React + TypeScript + Tailwind CSS |
-| [**Orbis**](https://github.com/ChaseToDream/Orbis) | 绘世，Web 站点接入 AI 绘图 API 生成图片 | TypeScript |
-| [**ResBox**](https://github.com/ChaseToDream/ResBox) | 基于 uni-app + Vue 的跨平台移动应用，含登录、发布、详情与个人页 | Vue + uni-app |
 
 ### 命令行工具
 
@@ -61,6 +64,9 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ChaseToDream&show_icons=true&theme=tokyonight&hide_border=true" alt="ChaseToDream's GitHub stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChaseToDream&layout=compact&theme=tokyonight&hide_border=true" alt="ChaseToDream's top languages" />
 </p>
 
 ---
